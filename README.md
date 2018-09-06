@@ -1,2 +1,2 @@
-# ece309-fall18-unityid
-Repository for students to fork and modify.
+# ece309-fall18-jqiu2
+Name: Steve Qiu    class: ECE309-001 .    date: 09-05-2018 
